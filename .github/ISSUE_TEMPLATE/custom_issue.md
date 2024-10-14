@@ -14,6 +14,7 @@ Provide a clear and concise description of the issue.
 ## Steps to Reproduce
 
 Detail the steps needed to reproduce the issue:
+
 1. Step 1
 2. Step 2
 3. Step 3
