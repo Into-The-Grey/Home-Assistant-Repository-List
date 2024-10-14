@@ -1,0 +1,294 @@
+{
+    "english_repos": {
+        "A": [
+            {
+                "author": "adamoutler",
+                "tags": ["Hassio", "RPi", "temperature sensor", "home assistant"],
+                "name": "Adamoutler's Repo",
+                "description": "Monitoring Raspberry Pi's temperature using Home Assistant.",
+                "url": "https://github.com/adamoutler/HassioRPITempSensor",
+                "status": "Active",
+                "last_updated": "2023-09-10",
+                "language": "English"
+            },
+            {
+                "author": "adrianoamalfi",
+                "tags": ["HassOS", "addons", "home assistant"],
+                "name": "Adrianoamalfi's Repo",
+                "description": "Collection of HassOS add-ons to extend Home Assistant's functionality.",
+                "url": "https://github.com/adrianoamalfi/hassos-addons",
+                "status": "Outdated",
+                "last_updated": "2022-05-01",
+                "language": "English"
+            },
+            {
+                "author": "Aenima",
+                "tags": ["Hassio", "custom components", "home assistant", "network tools"],
+                "name": "Aenima's Repo",
+                "description": "Custom add-ons focusing on network and device monitoring.",
+                "url": "https://github.com/aenima86/hassio-addons",
+                "status": "Active",
+                "last_updated": "2023-09-21",
+                "language": "English"
+            },
+            {
+                "author": "Alexbelgium",
+                "tags": ["Hassio", "addons", "home assistant", "community"],
+                "name": "Alexbelgium's Repo",
+                "description": "Community-supported add-ons for expanding Home Assistant's capabilities.",
+                "url": "https://github.com/alexbelgium/hassio-addons",
+                "status": "Active",
+                "last_updated": "2023-09-25",
+                "language": "English"
+            },
+            {
+                "author": "AlexxIT",
+                "tags": ["Hassio", "addons", "home assistant", "integration"],
+                "name": "Alexxit's Repo",
+                "description": "Add-ons for integrating various devices and services.",
+                "url": "https://github.com/AlexxIT/hassio-addons",
+                "status": "Active",
+                "last_updated": "2023-08-15",
+                "language": "English"
+            },
+            {
+                "author": "arthurdent75",
+                "tags": ["SimpleScheduler", "home automation", "home assistant", "scheduling"],
+                "name": "Arthurdent75's Repo",
+                "description": "Simple scheduling add-on for automating tasks in Home Assistant.",
+                "url": "https://github.com/arthurdent75/SimpleScheduler",
+                "status": "Active",
+                "last_updated": "2023-08-18",
+                "language": "English"
+            }
+        ],
+        "B": [
+            {
+                "author": "bestlibre",
+                "tags": ["Hassio", "addons", "home assistant"],
+                "name": "Bestlibre's Repo",
+                "description": "Various community add-ons for Home Assistant.",
+                "url": "https://github.com/bestlibre/hassio-addons",
+                "status": "Archived",
+                "last_updated": "2021-11-10",
+                "language": "English"
+            },
+            {
+                "author": "blakeblackshear",
+                "tags": ["Frigate", "Hassio", "addons", "home assistant", "video surveillance"],
+                "name": "Blakeblackshear's Repo",
+                "description": "Add-ons for integrating Frigate NVR with Home Assistant.",
+                "url": "https://github.com/blakeblackshear/frigate-hass-addons",
+                "status": "Active",
+                "last_updated": "2023-10-01",
+                "language": "English"
+            },
+            {
+                "author": "BRUH Automation",
+                "tags": ["multisensor", "ESP", "MQTT", "home assistant", "automation"],
+                "name": "BRUH Automation's Repo",
+                "description": "ESP-based MQTT Multisensor for use with Home Assistant.",
+                "url": "https://github.com/bruhautomation/ESP-MQTT-JSON-Multisensor",
+                "status": "Archived",
+                "last_updated": "2021-06-05",
+                "language": "English"
+            }
+        ],
+        "C": [
+            {
+                "author": "carloe",
+                "tags": ["DIY", "automation", "home assistant", "custom components"],
+                "name": "DIY Automations by Carlo",
+                "description": "DIY add-ons for enhancing Home Assistant.",
+                "url": "https://github.com/carloe/hassio-addons",
+                "status": "Active",
+                "last_updated": "2023-09-29",
+                "language": "English"
+            },
+            {
+                "author": "Community",
+                "tags": ["addons", "home assistant", "community", "integrations"],
+                "name": "Home Assistant Community Add-ons",
+                "description": "Community-maintained add-ons for Home Assistant.",
+                "url": "https://github.com/hassio-addons/repository",
+                "status": "Active",
+                "last_updated": "2023-10-10",
+                "language": "English"
+            }
+        ],
+        "D": [
+            {
+                "author": "DrZzs",
+                "tags": ["addons", "home assistant", "automation", "smart home"],
+                "name": "DrZzs's Repo",
+                "description": "Add-ons created by DrZzs for various automation projects.",
+                "url": "https://github.com/dreznoff/hassio-addons",
+                "status": "Active",
+                "last_updated": "2023-09-18",
+                "language": "English"
+            }
+        ],
+        "E": [
+            {
+                "author": "expaso",
+                "tags": ["HassOS", "addons", "home assistant", "advanced features"],
+                "name": "Expaso's Repo",
+                "description": "Advanced HassOS add-ons for extending Home Assistant's functionality.",
+                "url": "https://github.com/expaso/hassos-addons",
+                "status": "Active",
+                "last_updated": "2023-09-05",
+                "language": "English"
+            }
+        ],
+        "F": [
+            {
+                "author": "frenck",
+                "tags": ["Hassio", "addons", "home assistant", "community"],
+                "name": "Frenck's Repo",
+                "description": "A variety of add-ons maintained by Frenck.",
+                "url": "https://github.com/frenck/hassio-addons",
+                "status": "Active",
+                "last_updated": "2023-10-02",
+                "language": "English"
+            }
+        ],
+        "H": [
+            {
+                "author": "Homebridge",
+                "tags": ["homekit", "integration", "automation", "home assistant"],
+                "name": "Homebridge Integration",
+                "description": "HomeKit integration for Home Assistant.",
+                "url": "https://github.com/homebridge/homebridge",
+                "status": "Active",
+                "last_updated": "2023-10-01",
+                "language": "English"
+            }
+        ],
+        "M": [
+            {
+                "author": "music-assistant",
+                "tags": ["music", "home assistant", "addons", "media"],
+                "name": "Music-assistant's Repo",
+                "description": "Add-on for integrating advanced music assistant capabilities into Home Assistant.",
+                "url": "https://github.com/music-assistant/core",
+                "status": "Active",
+                "last_updated": "2023-09-30",
+                "language": "English"
+            }
+        ],
+        "N": [
+            {
+                "author": "NotoriousBDG",
+                "tags": ["Hassio", "addons", "home assistant", "monitoring", "utility"],
+                "name": "NotoriousBDG's Repo",
+                "description": "Utilities and tools to enhance monitoring of Home Assistant.",
+                "url": "https://github.com/notoriousbdg/hassio-addons",
+                "status": "Active",
+                "last_updated": "2023-09-20",
+                "language": "English"
+            }
+        ],
+        "P": [
+            {
+                "author": "pavoni",
+                "tags": ["heating", "evohome", "automation", "home assistant"],
+                "name": "Pavoni's Evohome Integration",
+                "description": "Integration of Honeywell Evohome systems with Home Assistant.",
+                "url": "https://github.com/pavoni/py-evohome",
+                "status": "Active",
+                "last_updated": "2023-08-30",
+                "language": "English"
+            },
+            {
+                "author": "philhawthorne",
+                "tags": ["docker", "monitoring", "home assistant", "automation"],
+                "name": "Phil Hawthorne's Repo",
+                "description": "Docker monitoring solution for Home Assistant.",
+                "url": "https://github.com/philhawthorne/ha-dockermon",
+                "status": "Active",
+                "last_updated": "2023-07-25",
+                "language": "English"
+            },
+            {
+                "author": "pkozul",
+                "tags": ["floorplan", "visualization", "home assistant", "UI"],
+                "name": "HA Floorplan",
+                "description": "Floorplan component for Home Assistant.",
+                "url": "https://github.com/pkozul/ha-floorplan",
+                "status": "Active",
+                "last_updated": "2023-08-15",
+                "language": "English"
+            },
+            {
+                "author": "Poeschl",
+                "tags": ["Hassio", "addons", "home assistant", "community"],
+                "name": "Poeschl's Repo",
+                "description": "Collection of community add-ons for Home Assistant.",
+                "url": "https://github.com/Poeschl/Hassio-Addons",
+                "status": "Active",
+                "last_updated": "2023-08-12",
+                "language": "English"
+            }
+        ],
+        "R": [
+            {
+                "author": "rhasspy",
+                "tags": ["Hassio", "Rhasspy", "home assistant", "addons", "voice assistant"],
+                "name": "Rhasspy's Repo",
+                "description": "Add-ons for integrating the Rhasspy voice assistant with Home Assistant.",
+                "url": "https://github.com/rhasspy/hassio-addons",
+                "status": "Active",
+                "last_updated": "2023-07-22",
+                "language": "English"
+            }
+        ],
+        "S": [
+            {
+                "author": "suburbanNerd",
+                "tags": ["pool control", "automation", "home assistant", "water management"],
+                "name": "SuburbanNerd's Repo",
+                "description": "Pool controller for use with Home Assistant.",
+                "url": "https://github.com/suburbanNerd/hass-pool-controller",
+                "status": "Active",
+                "last_updated": "2023-08-05",
+                "language": "English"
+            }
+        ],
+        "T": [
+            {
+                "author": "thomasmauerer",
+                "tags": ["Hassio", "addons", "home assistant", "tools"],
+                "name": "Thomasmauerer's Repo",
+                "description": "Various tools and utilities to enhance Home Assistant.",
+                "url": "https://github.com/thomasmauerer/hassio-addons",
+                "status": "Active",
+                "last_updated": "2023-09-14",
+                "language": "English"
+            }
+        ],
+        "X": [
+            {
+                "author": "xmlguy74",
+                "tags": ["HassOS", "addons", "home assistant"],
+                "name": "Xmlguy74's Repo",
+                "description": "Custom HassOS add-ons for use with Home Assistant.",
+                "url": "https://github.com/xmlguy74/hassos-addons",
+                "status": "Outdated",
+                "last_updated": "2022-03-20",
+                "language": "English"
+            }
+        ],
+        "Z": [
+            {
+                "author": "zigbee2mqtt",
+                "tags": ["Zigbee2MQTT", "Hassio", "home assistant", "addons", "zigbee"],
+                "name": "Zigbee2mqtt's Repo",
+                "description": "Add-on for integrating Zigbee devices with Home Assistant via Zigbee2MQTT.",
+                "url": "https://github.com/zigbee2mqtt/hassio-zigbee2mqtt",
+                "status": "Active",
+                "last_updated": "2023-10-10",
+                "language": "English"
+            }
+        ]
+    }
+}
