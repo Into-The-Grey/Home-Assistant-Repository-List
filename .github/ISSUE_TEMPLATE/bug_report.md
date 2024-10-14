@@ -1,24 +1,46 @@
 ---
-name: Bug report
-about: Report a bug to help us improve
-title: "[BUG] Your issue title"
+name: Bug Report
+about: Report a bug to help us improve the project
+title: "[BUG] Your issue title here"
 labels: bug
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## Description
 
-**To Reproduce**
-Steps to reproduce the behavior:
+Provide a clear and concise description of the bug.
 
-1. Go to '...'
-2. Click on '...'
-3. See error
+## Steps to Reproduce
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+List the steps to reproduce the issue:
+1. Step 1
+2. Step 2
+3. Step 3
 
-**Additional context**
-Add any other context about the problem here.
+## Expected Behavior
+
+Explain what you expected to happen instead.
+
+## Actual Behavior
+
+Explain what actually happened, including any error messages or behaviors.
+
+## Screenshots (if applicable)
+
+If applicable, add screenshots to help explain the problem.
+
+## Possible Solution (optional)
+
+Suggest a solution or workaround, if you have any.
+
+## Environment
+
+- **Platform**: (e.g., Windows, macOS, Linux)
+- **Version**: (e.g., application version, commit hash)
+- **Browser**: (if applicable, browser and version)
+- **Other relevant details**:
+
+## Additional Context
+
+Provide any additional context or information that may be helpful in diagnosing the issue.
