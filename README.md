@@ -1,8 +1,16 @@
 # Home Assistant Repository List
 
-![Total Repositories](https://img.shields.io/badge/Total%20Repositories-60-blue)
-![English Repositories](https://img.shields.io/badge/English%20Repositories-60-green)
-![Active Repositories](https://img.shields.io/badge/Active%20Repositories-50-brightgreen)
+---
+
+## Repository Badges
+
+| ![Total Repositories](https://img.shields.io/badge/Total%20Repositories-60-blue) | ![English Repositories](https://img.shields.io/badge/English%20Repositories-60-green) | ![Active Repositories](https://img.shields.io/badge/Active%20Repositories-50-brightgreen) |
+|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| ![GitHub Issues](https://img.shields.io/github/issues/Into-The-Grey/Home-Assistant-Repository-List) | ![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Into-The-Grey/Home-Assistant-Repository-List) | ![GitHub Contributors](https://img.shields.io/github/contributors/Into-The-Grey/Home-Assistant-Repository-List) |
+| ![GitHub Last Commit](https://img.shields.io/github/last-commit/Into-The-Grey/Home-Assistant-Repository-List) | ![GitHub Forks](https://img.shields.io/github/forks/Into-The-Grey/Home-Assistant-Repository-List) | ![GitHub Stars](https://img.shields.io/github/stars/Into-The-Grey/Home-Assistant-Repository-List) |
+| ![GitHub Watchers](https://img.shields.io/github/watchers/Into-The-Grey/Home-Assistant-Repository-List) | ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Into-The-Grey/Home-Assistant-Repository-List/main.yml) |                                                                                          |
+
+---
 
 ## 🌍 **Looking for Contributions in Other Languages!**
 
@@ -15,6 +23,7 @@ Welcome to the **Home Assistant Repository List**! This repository aims to provi
 ## 📋 **Table of Contents**
 
 - [Home Assistant Repository List](#home-assistant-repository-list)
+  - [Repository Badges](#repository-badges)
   - [🌍 **Looking for Contributions in Other Languages!**](#-looking-for-contributions-in-other-languages)
   - [📋 **Table of Contents**](#-table-of-contents)
   - [📖 **Introduction**](#-introduction)
@@ -44,42 +53,33 @@ Welcome to the **Home Assistant Repository List**! This repository aims to provi
       - [22. Bertbaron's Repo](#22-bertbarons-repo)
       - [23. Davidramosweb's Repo](#23-davidramoswebs-repo)
       - [24. Arthurdent75's Repo](#24-arthurdent75s-repo)
-      - [25. Music-assistant's Repo](#25-music-assistants-repo)
-      - [26. Petersendev's Repo](#26-petersendevs-repo)
-      - [27. Poeschl's Repo](#27-poeschls-repo)
-      - [28. Rhasspy's Repo](#28-rhasspys-repo)
-      - [29. Koush's Repo](#29-koushs-repo)
-      - [30. Thomasmauerer's Repo](#30-thomasmauerers-repo)
-      - [31. Xmlguy74's Repo](#31-xmlguy74s-repo)
-      - [32. Zigbee2mqtt's Repo](#32-zigbee2mqtts-repo)
-      - [33. Mmotley999's Repo](#33-mmotley999s-repo)
-      - [34. Music-assistant's Repo](#34-music-assistants-repo)
-      - [35. Davidramosweb's Repo](#35-davidramoswebs-repo)
-      - [36. SuburbanNerd's Repo](#36-suburbannerds-repo)
-      - [37. Rhasspy Hass Addons Repo](#37-rhasspy-hass-addons-repo)
-      - [38. BRUH Automation's Repo](#38-bruh-automations-repo)
-      - [39. Frenck's Hassio Add-ons Repo](#39-frencks-hassio-add-ons-repo)
-      - [40. CustomComponents's Updater Repo](#40-customcomponentss-updater-repo)
-      - [41. Aenima's Hassio Add-ons Repo](#41-aenimas-hassio-add-ons-repo)
-      - [42. Alexbelgium's Hassio Add-ons Repo](#42-alexbelgiums-hassio-add-ons-repo)
-      - [43. Poeschl's Hassio Add-ons Repo](#43-poeschls-hassio-add-ons-repo)
-      - [44. Pavoni's Evohome Integration Repo](#44-pavonis-evohome-integration-repo)
-      - [45. ESPHome Repo](#45-esphome-repo)
-      - [46. Bestlibre's Hassio Add-ons Repo](#46-bestlibres-hassio-add-ons-repo)
-      - [47. DrZzs's Add-ons Repo](#47-drzzss-add-ons-repo)
-      - [48. Bertbaron's Hassio Add-ons Repo](#48-bertbarons-hassio-add-ons-repo)
-      - [49. Koush's Scrypted Repo](#49-koushs-scrypted-repo)
-      - [50. Expaso's HassOS Add-ons Repo](#50-expasos-hassos-add-ons-repo)
-      - [51. NotoriousBDG's Add-ons Repo](#51-notoriousbdgs-add-ons-repo)
-      - [52. Thomasmauerer's Hassio Add-ons Repo](#52-thomasmauerers-hassio-add-ons-repo)
-      - [53. HA Floorplan Repo](#53-ha-floorplan-repo)
-      - [54. Zigbee2mqtt's Hassio Add-ons Repo](#54-zigbee2mqtts-hassio-add-ons-repo)
-      - [55. Phil Hawthorne's Dockermon Repo](#55-phil-hawthornes-dockermon-repo)
-      - [56. Arthurdent75's SimpleScheduler Repo](#56-arthurdent75s-simplescheduler-repo)
-      - [57. CustomComponents's Updater Repo](#57-customcomponentss-updater-repo)
-      - [58. AlexxIT's Hassio Add-ons Repo](#58-alexxits-hassio-add-ons-repo)
-      - [59. Blakeblackshear's Frigate Add-ons Repo](#59-blakeblackshears-frigate-add-ons-repo)
-      - [60. Adamoutler's RPi Temp Sensor Repo](#60-adamoutlers-rpi-temp-sensor-repo)
+      - [25. Petersendev's Repo](#25-petersendevs-repo)
+      - [26. Poeschl's Repo](#26-poeschls-repo)
+      - [27. Rhasspy's Repo](#27-rhasspys-repo)
+      - [28. Koush's Repo](#28-koushs-repo)
+      - [29. Thomasmauerer's Repo](#29-thomasmauerers-repo)
+      - [30. Xmlguy74's Repo](#30-xmlguy74s-repo)
+      - [31. Zigbee2mqtt's Repo](#31-zigbee2mqtts-repo)
+      - [32. Mmotley999's Repo](#32-mmotley999s-repo)
+      - [33. Music-assistant's Repo](#33-music-assistants-repo)
+      - [34. Davidramosweb's Repo](#34-davidramoswebs-repo)
+      - [35. Rhasspy Hass Addons Repo](#35-rhasspy-hass-addons-repo)
+      - [36. Pavoni's Evohome Integration Repo](#36-pavonis-evohome-integration-repo)
+      - [37. ESPHome Repo](#37-esphome-repo)
+      - [38. Bestlibre's Hassio Add-ons Repo](#38-bestlibres-hassio-add-ons-repo)
+      - [39. DrZzs's Add-ons Repo](#39-drzzss-add-ons-repo)
+      - [40. Bertbaron's Hassio Add-ons Repo](#40-bertbarons-hassio-add-ons-repo)
+      - [41. Koush's Scrypted Repo](#41-koushs-scrypted-repo)
+      - [42. Expaso's HassOS Add-ons Repo](#42-expasos-hassos-add-ons-repo)
+      - [43. NotoriousBDG's Add-ons Repo](#43-notoriousbdgs-add-ons-repo)
+      - [44. Thomasmauerer's Hassio Add-ons Repo](#44-thomasmauerers-hassio-add-ons-repo)
+      - [45. Zigbee2mqtt's Hassio Add-ons Repo](#45-zigbee2mqtts-hassio-add-ons-repo)
+      - [46. Phil Hawthorne's Dockermon Repo](#46-phil-hawthornes-dockermon-repo)
+      - [47. Arthurdent75's SimpleScheduler Repo](#47-arthurdent75s-simplescheduler-repo)
+      - [48. CustomComponents's Updater Repo](#48-customcomponentss-updater-repo)
+      - [49. AlexxIT's Hassio Add-ons Repo](#49-alexxits-hassio-add-ons-repo)
+      - [50. Blakeblackshear's Frigate Add-ons Repo](#50-blakeblackshears-frigate-add-ons-repo)
+      - [51. Adamoutler's RPi Temp Sensor Repo](#51-adamoutlers-rpi-temp-sensor-repo)
     - [🌐 **Repositories in Other Languages**](#-repositories-in-other-languages)
   - [🤝 **Contributing**](#-contributing)
   - [⚖️ **License**](#️-license)
@@ -283,10 +283,7 @@ Here is the complete list of 60 **Home Assistant repositories** in English. Thes
 - **Author**: AlexxIT
 - **Tags**: Hassio, addons, home assistant, integration
 - **Status**: Active
-- **Last Updated**: 202
-
-3-08-15
-
+- **Last Updated**: 2023-08-15
 - **Language**: English
 - **Description**: Add-ons for integrating various devices and services.
 
@@ -369,18 +366,7 @@ Here is the complete list of 60 **Home Assistant repositories** in English. Thes
 
 ---
 
-#### 25. [Music-assistant's Repo](https://github.com/music-assistant/core)
-
-- **Author**: music-assistant
-- **Tags**: music, home assistant, addons, media
-- **Status**: Active
-- **Last Updated**: 2023-09-30
-- **Language**: English
-- **Description**: Add-on for integrating advanced music assistant capabilities into Home Assistant.
-
----
-
-#### 26. [Petersendev's Repo](https://github.com/petersendev/hassio-addons)
+#### 25. [Petersendev's Repo](https://github.com/petersendev/hassio-addons)
 
 - **Author**: petersendev
 - **Tags**: Hassio, addons, home assistant, integration
@@ -391,7 +377,7 @@ Here is the complete list of 60 **Home Assistant repositories** in English. Thes
 
 ---
 
-#### 27. [Poeschl's Repo](https://github.com/Poeschl/Hassio-Addons)
+#### 26. [Poeschl's Repo](https://github.com/Poeschl/Hassio-Addons)
 
 - **Author**: Poeschl
 - **Tags**: Hassio, addons, home assistant, community
@@ -402,7 +388,7 @@ Here is the complete list of 60 **Home Assistant repositories** in English. Thes
 
 ---
 
-#### 28. [Rhasspy's Repo](https://github.com/rhasspy/hassio-addons)
+#### 27. [Rhasspy's Repo](https://github.com/rhasspy/hassio-addons)
 
 - **Author**: rhasspy
 - **Tags**: Hassio, Rhasspy, home assistant, addons, voice assistant
@@ -413,7 +399,7 @@ Here is the complete list of 60 **Home Assistant repositories** in English. Thes
 
 ---
 
-#### 29. [Koush's Repo](https://github.com/koush/scrypted)
+#### 28. [Koush's Repo](https://github.com/koush/scrypted)
 
 - **Author**: koush
 - **Tags**: Scrypted, home automation, home assistant, smart home
@@ -424,7 +410,7 @@ Here is the complete list of 60 **Home Assistant repositories** in English. Thes
 
 ---
 
-#### 30. [Thomasmauerer's Repo](https://github.com/thomasmauerer/hassio-addons)
+#### 29. [Thomasmauerer's Repo](https://github.com/thomasmauerer/hassio-addons)
 
 - **Author**: thomasmauerer
 - **Tags**: Hassio, addons, home assistant, tools
@@ -435,7 +421,7 @@ Here is the complete list of 60 **Home Assistant repositories** in English. Thes
 
 ---
 
-#### 31. [Xmlguy74's Repo](https://github.com/xmlguy74/hassos-addons)
+#### 30. [Xmlguy74's Repo](https://github.com/xmlguy74/hassos-addons)
 
 - **Author**: xmlguy74
 - **Tags**: HassOS, addons, home assistant
@@ -446,7 +432,7 @@ Here is the complete list of 60 **Home Assistant repositories** in English. Thes
 
 ---
 
-#### 32. [Zigbee2mqtt's Repo](https://github.com/zigbee2mqtt/hassio-zigbee2mqtt)
+#### 31. [Zigbee2mqtt's Repo](https://github.com/zigbee2mqtt/hassio-zigbee2mqtt)
 
 - **Author**: zigbee2mqtt
 - **Tags**: Zigbee2MQTT, Hassio, home assistant, addons, zigbee
@@ -457,7 +443,7 @@ Here is the complete list of 60 **Home Assistant repositories** in English. Thes
 
 ---
 
-#### 33. [Mmotley999's Repo](https://github.com/mmotley999/addons)
+#### 32. [Mmotley999's Repo](https://github.com/mmotley999/addons)
 
 - **Author**: mmotley999
 - **Tags**: addons, home assistant, custom
@@ -468,7 +454,7 @@ Here is the complete list of 60 **Home Assistant repositories** in English. Thes
 
 ---
 
-#### 34. [Music-assistant's Repo](https://github.com/music-assistant/core)
+#### 33. [Music-assistant's Repo](https://github.com/music-assistant/core)
 
 - **Author**: music-assistant
 - **Tags**: music, home assistant, addons, media
@@ -479,7 +465,7 @@ Here is the complete list of 60 **Home Assistant repositories** in English. Thes
 
 ---
 
-#### 35. [Davidramosweb's Repo](https://github.com/davidramosweb/hassio-addons)
+#### 34. [Davidramosweb's Repo](https://github.com/davidramosweb/hassio-addons)
 
 - **Author**: davidramosweb
 - **Tags**: Hassio, addons, home assistant, tools
@@ -490,18 +476,7 @@ Here is the complete list of 60 **Home Assistant repositories** in English. Thes
 
 ---
 
-#### 36. [SuburbanNerd's Repo](https://github.com/suburbanNerd/hass-pool-controller)
-
-- **Author**: SuburbanNerd
-- **Tags**: pool control, automation, home assistant, water management
-- **Status**: Active
-- **Last Updated**: 2023-08-05
-- **Language**: English
-- **Description**: Pool controller for use with Home Assistant.
-
----
-
-#### 37. [Rhasspy Hass Addons Repo](https://github.com/rhasspy/hassio-addons)
+#### 35. [Rhasspy Hass Addons Repo](https://github.com/rhasspy/hassio-addons)
 
 - **Author**: rhasspy
 - **Tags**: Hassio, Rhasspy, home assistant, addons, voice assistant
@@ -512,73 +487,7 @@ Here is the complete list of 60 **Home Assistant repositories** in English. Thes
 
 ---
 
-#### 38. [BRUH Automation's Repo](https://github.com/bruhautomation/ESP-MQTT-JSON-Multisensor)
-
-- **Author**: BRUH Automation
-- **Tags**: multisensor, ESP, MQTT, home assistant, automation
-- **Status**: Archived
-- **Last Updated**: 2021-06-05
-- **Language**: English
-- **Description**: ESP-based MQTT Multisensor for use with Home Assistant.
-
----
-
-#### 39. [Frenck's Hassio Add-ons Repo](https://github.com/frenck/hassio-addons)
-
-- **Author**: Frenck
-- **Tags**: Hassio, addons, home assistant, community
-- **Status**: Active
-- **Last Updated**: 2023-10-02
-- **Language**: English
-- **Description**: A variety of add-ons maintained by Frenck for the Home Assistant community.
-
----
-
-#### 40. [CustomComponents's Updater Repo](https://github.com/custom-components/custom_updater)
-
-- **Author**: CustomComponents
-- **Tags**: updater, home assistant, custom components, maintenance
-- **Status**: Active
-- **Last Updated**: 2023-07-15
-- **Language**: English
-- **Description**: Custom component updater for Home Assistant.
-
----
-
-#### 41. [Aenima's Hassio Add-ons Repo](https://github.com/aenima86/hassio-addons)
-
-- **Author**: Aenima
-- **Tags**: Hassio, custom components, home assistant, network tools
-- **Status**: Active
-- **Last Updated**: 2023-09-21
-- **Language**: English
-- **Description**: Custom add-ons focusing on network and device monitoring.
-
----
-
-#### 42. [Alexbelgium's Hassio Add-ons Repo](https://github.com/alexbelgium/hassio-addons)
-
-- **Author**: Alexbelgium
-- **Tags**: Hassio, addons, home assistant, community
-- **Status**: Active
-- **Last Updated**: 2023-09-25
-- **Language**: English
-- **Description**: Community-supported add-ons for expanding Home Assistant's capabilities.
-
----
-
-#### 43. [Poeschl's Hassio Add-ons Repo](https://github.com/Poeschl/Hassio-Addons)
-
-- **Author**: Poeschl
-- **Tags**: Hassio, addons, home assistant, community
-- **Status**: Active
-- **Last Updated**: 2023-08-12
-- **Language**: English
-- **Description**: Collection of community add-ons for Home Assistant.
-
----
-
-#### 44. [Pavoni's Evohome Integration Repo](https://github.com/pavoni/py-evohome)
+#### 36. [Pavoni's Evohome Integration Repo](https://github.com/pavoni/py-evohome)
 
 - **Author**: Pavoni
 - **Tags**: heating, evohome, automation, home assistant
@@ -589,7 +498,7 @@ Here is the complete list of 60 **Home Assistant repositories** in English. Thes
 
 ---
 
-#### 45. [ESPHome Repo](https://github.com/esphome/esphome)
+#### 37. [ESPHome Repo](https://github.com/esphome/esphome)
 
 - **Author**: ESPHome
 - **Tags**: ESP, integration, automation, sensors, home assistant
@@ -600,7 +509,7 @@ Here is the complete list of 60 **Home Assistant repositories** in English. Thes
 
 ---
 
-#### 46. [Bestlibre's Hassio Add-ons Repo](https://github.com/bestlibre/hassio-addons)
+#### 38. [Bestlibre's Hassio Add-ons Repo](https://github.com/bestlibre/hassio-addons)
 
 - **Author**: Bestlibre
 - **Tags**: Hassio, addons, home assistant
@@ -611,7 +520,7 @@ Here is the complete list of 60 **Home Assistant repositories** in English. Thes
 
 ---
 
-#### 47. [DrZzs's Add-ons Repo](https://github.com/dreznoff/hassio-addons)
+#### 39. [DrZzs's Add-ons Repo](https://github.com/dreznoff/hassio-addons)
 
 - **Author**: DrZzs
 - **Tags**: addons, home assistant, automation, smart home
@@ -622,7 +531,7 @@ Here is the complete list of 60 **Home Assistant repositories** in English. Thes
 
 ---
 
-#### 48. [Bertbaron's Hassio Add-ons Repo](https://github.com/bertbaron/hassio-addons)
+#### 40. [Bertbaron's Hassio Add-ons Repo](https://github.com/bertbaron/hassio-addons)
 
 - **Author**: Bertbaron
 - **Tags**: Hassio, addons, home assistant
@@ -633,7 +542,7 @@ Here is the complete list of 60 **Home Assistant repositories** in English. Thes
 
 ---
 
-#### 49. [Koush's Scrypted Repo](https://github.com/koush/scrypted)
+#### 41. [Koush's Scrypted Repo](https://github.com/koush/scrypted)
 
 - **Author**: Koush
 - **Tags**: Scrypted, home automation, home assistant, smart home
@@ -644,7 +553,7 @@ Here is the complete list of 60 **Home Assistant repositories** in English. Thes
 
 ---
 
-#### 50. [Expaso's HassOS Add-ons Repo](https://github.com/expaso/hassos-addons)
+#### 42. [Expaso's HassOS Add-ons Repo](https://github.com/expaso/hassos-addons)
 
 - **Author**: Expaso
 - **Tags**: HassOS, addons, home assistant, advanced features
@@ -655,7 +564,7 @@ Here is the complete list of 60 **Home Assistant repositories** in English. Thes
 
 ---
 
-#### 51. [NotoriousBDG's Add-ons Repo](https://github.com/notoriousbdg/hassio-addons)
+#### 43. [NotoriousBDG's Add-ons Repo](https://github.com/notoriousbdg/hassio-addons)
 
 - **Author**: NotoriousBDG
 - **Tags**: Hassio, addons, home assistant, monitoring, utility
@@ -666,7 +575,7 @@ Here is the complete list of 60 **Home Assistant repositories** in English. Thes
 
 ---
 
-#### 52. [Thomasmauerer's Hassio Add-ons Repo](https://github.com/thomasmauerer/hassio-addons)
+#### 44. [Thomasmauerer's Hassio Add-ons Repo](https://github.com/thomasmauerer/hassio-addons)
 
 - **Author**: Thomasmauerer
 - **Tags**: Hassio, addons, home assistant, tools
@@ -677,31 +586,18 @@ Here is the complete list of 60 **Home Assistant repositories** in English. Thes
 
 ---
 
-#### 53. [HA Floorplan Repo](https://github.com/pkozul/ha-floorplan)
-
-- **Author**: pkozul
-- **Tags**: floorplan, visualization, home assistant, UI
-- **Status**: Active
-- **Last Updated**: 2023-08-15
-- **Language**: English
-- **Description**: Floorplan component for Home Assistant to visualize the layout and status of devices.
-
----
-
-#### 54. [Zigbee2mqtt's Hassio Add-ons Repo](https://github.com/zigbee2mqtt/hassio-zigbee2mqtt)
+#### 45. [Zigbee2mqtt's Hassio Add-ons Repo](https://github.com/zigbee2mqtt/hassio-zigbee2mqtt)
 
 - **Author**: Zigbee2mqtt
 - **Tags**: Zigbee2MQTT, Hassio, home assistant, addons, zigbee
 - **Status**: Active
 - **Last Updated**: 2023-10-10
 - **Language**: English
-- **Description**: Add
-
--on for integrating Zigbee devices with Home Assistant via Zigbee2MQTT.
+- **Description**: Add-on for integrating Zigbee devices with Home Assistant via Zigbee2MQTT.
 
 ---
 
-#### 55. [Phil Hawthorne's Dockermon Repo](https://github.com/philhawthorne/ha-dockermon)
+#### 46. [Phil Hawthorne's Dockermon Repo](https://github.com/philhawthorne/ha-dockermon)
 
 - **Author**: Phil Hawthorne
 - **Tags**: docker, monitoring, home assistant, automation
@@ -712,7 +608,7 @@ Here is the complete list of 60 **Home Assistant repositories** in English. Thes
 
 ---
 
-#### 56. [Arthurdent75's SimpleScheduler Repo](https://github.com/arthurdent75/SimpleScheduler)
+#### 47. [Arthurdent75's SimpleScheduler Repo](https://github.com/arthurdent75/SimpleScheduler)
 
 - **Author**: Arthurdent75
 - **Tags**: SimpleScheduler, home automation, home assistant, scheduling
@@ -723,7 +619,7 @@ Here is the complete list of 60 **Home Assistant repositories** in English. Thes
 
 ---
 
-#### 57. [CustomComponents's Updater Repo](https://github.com/custom-components/custom_updater)
+#### 48. [CustomComponents's Updater Repo](https://github.com/custom-components/custom_updater)
 
 - **Author**: CustomComponents
 - **Tags**: updater, home assistant, custom components, maintenance
@@ -734,7 +630,7 @@ Here is the complete list of 60 **Home Assistant repositories** in English. Thes
 
 ---
 
-#### 58. [AlexxIT's Hassio Add-ons Repo](https://github.com/AlexxIT/hassio-addons)
+#### 49. [AlexxIT's Hassio Add-ons Repo](https://github.com/AlexxIT/hassio-addons)
 
 - **Author**: AlexxIT
 - **Tags**: Hassio, addons, home assistant, integration
@@ -745,7 +641,7 @@ Here is the complete list of 60 **Home Assistant repositories** in English. Thes
 
 ---
 
-#### 59. [Blakeblackshear's Frigate Add-ons Repo](https://github.com/blakeblackshear/frigate-hass-addons)
+#### 50. [Blakeblackshear's Frigate Add-ons Repo](https://github.com/blakeblackshear/frigate-hass-addons)
 
 - **Author**: Blakeblackshear
 - **Tags**: Frigate, Hassio, addons, home assistant, video surveillance
@@ -756,10 +652,10 @@ Here is the complete list of 60 **Home Assistant repositories** in English. Thes
 
 ---
 
-#### 60. [Adamoutler's RPi Temp Sensor Repo](https://github.com/adamoutler/HassioRPITempSensor)
+#### 51. [Adamoutler's RPi Temp Sensor Repo](https://github.com/adamoutler/HassioRPITempSensor)
 
 - **Author**: Adamoutler
-- **Tags**: Hassio, RPi, temperature sensor, home assistant, monitoring
+- **Tags**: Hassio, RPi, temperature sensor, home assistant
 - **Status**: Active
 - **Last Updated**: 2023-09-10
 - **Language**: English
