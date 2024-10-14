@@ -4,11 +4,11 @@
 
 ## Repository Badges
 
-| ![Total Repositories](https://img.shields.io/badge/Total%20Repositories-60-blue) | ![English Repositories](https://img.shields.io/badge/English%20Repositories-60-green) | ![Active Repositories](https://img.shields.io/badge/Active%20Repositories-50-brightgreen) |
+| ![Total Repositories](https://img.shields.io/badge/Total%20Repositories-34-blue) | ![English Repositories](https://img.shields.io/badge/English%20Repositories-34-green) | ![Active Repositories](https://img.shields.io/badge/Active%20Repositories-27-brightgreen) |
 |--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | ![GitHub Issues](https://img.shields.io/github/issues/Into-The-Grey/Home-Assistant-Repository-List) | ![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Into-The-Grey/Home-Assistant-Repository-List) | ![GitHub Contributors](https://img.shields.io/github/contributors/Into-The-Grey/Home-Assistant-Repository-List) |
 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Into-The-Grey/Home-Assistant-Repository-List) | ![GitHub Forks](https://img.shields.io/github/forks/Into-The-Grey/Home-Assistant-Repository-List) | ![GitHub Stars](https://img.shields.io/github/stars/Into-The-Grey/Home-Assistant-Repository-List) |
-| ![GitHub Watchers](https://img.shields.io/github/watchers/Into-The-Grey/Home-Assistant-Repository-List) | ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Into-The-Grey/Home-Assistant-Repository-List/main.yml) |                                                                                          |
+| ![GitHub Watchers](https://img.shields.io/github/watchers/Into-The-Grey/Home-Assistant-Repository-List) | ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Into-The-Grey/Home-Assistant-Repository-List/main.yml) |  ![Total Languages](https://img.shields.io/badge/Total%20Languages-1-brightgreen)                                                                                          |
 
 ---
 
