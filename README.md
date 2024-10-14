@@ -2,6 +2,16 @@
 
 ---
 
+## Official Links
+
+- [Home Assistant Website](https://www.home-assistant.io/)
+- [Home Assistant GitHub Repository](https://github.com/home-assistant/core)
+- [Home Assistant Community Forum](https://community.home-assistant.io/)
+- [Home Assistant Documentation](https://www.home-assistant.io/docs/)
+- [Home Assistant Developer Documentation](https://developers.home-assistant.io/)
+
+---
+
 ## Repository Badges
 
 | ![Total Repositories](https://img.shields.io/badge/Total%20Repositories-34-blue) | ![English Repositories](https://img.shields.io/badge/English%20Repositories-34-green) | ![Active Repositories](https://img.shields.io/badge/Active%20Repositories-27-brightgreen) |
@@ -23,6 +33,7 @@ Welcome to the **Home Assistant Repository List**! This repository aims to provi
 ## 📋 **Table of Contents**
 
 - [Home Assistant Repository List](#home-assistant-repository-list)
+  - [Official Links](#official-links)
   - [Repository Badges](#repository-badges)
   - [🌍 **Looking for Contributions in Other Languages!**](#-looking-for-contributions-in-other-languages)
   - [📋 **Table of Contents**](#-table-of-contents)
