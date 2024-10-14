@@ -126,6 +126,16 @@
                 "status": "Active",
                 "last_updated": "2023-09-18",
                 "language": "English"
+            },
+            {
+                "author": "Davidramosweb",
+                "tags": ["Hassio", "addons", "home assistant"],
+                "name": "Davidramosweb's Repo",
+                "description": "Add-ons for Home Assistant by Davidramosweb.",
+                "url": "https://github.com/davidramosweb/hassio-addons",
+                "status": "Active",
+                "last_updated": "2023-09-18",
+                "language": "English"
             }
         ],
         "E": [
@@ -171,6 +181,16 @@
                 "name": "Music-assistant's Repo",
                 "description": "Add-on for integrating advanced music assistant capabilities into Home Assistant.",
                 "url": "https://github.com/music-assistant/core",
+                "status": "Active",
+                "last_updated": "2023-09-30",
+                "language": "English"
+            },
+            {
+                "author": "mmotley999",
+                "tags": ["Hassio", "addons", "home assistant"],
+                "name": "Mmotley999's Repo",
+                "description": "Add-ons for Home Assistant by Mmotley999.",
+                "url": "https://github.com/mmotley999/hassio-addons",
                 "status": "Active",
                 "last_updated": "2023-09-30",
                 "language": "English"
@@ -227,6 +247,16 @@
                 "url": "https://github.com/Poeschl/Hassio-Addons",
                 "status": "Active",
                 "last_updated": "2023-08-12",
+                "language": "English"
+            },
+            {
+                "author": "philhawthorne",
+                "tags": ["docker", "monitoring", "home assistant", "automation"],
+                "name": "Phil Hawthorne's Dockermon Repo",
+                "description": "Docker monitoring solution for Home Assistant.",
+                "url": "https://github.com/philhawthorne/ha-dockermon",
+                "status": "Active",
+                "last_updated": "2023-07-25",
                 "language": "English"
             }
         ],
