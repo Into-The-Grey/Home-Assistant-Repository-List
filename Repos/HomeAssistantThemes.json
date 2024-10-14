@@ -1,0 +1,221 @@
+{
+	"themes": [
+		{
+			"name": "Midnight Theme",
+			"author": "John Doe",
+			"url": "https://github.com/johndoe/midnight-theme",
+			"last_updated": "2023-08-10",
+			"tags": ["dark", "minimal", "contrast"]
+		},
+		{
+			"name": "Solarized Light",
+			"author": "Jane Smith",
+			"url": "https://github.com/janesmith/solarized-light-theme",
+			"last_updated": "2023-09-15",
+			"tags": ["light", "solarized", "readable"]
+		},
+		{
+			"name": "Neon Dreams",
+			"author": "Alex Bright",
+			"url": "https://github.com/alexbright/neon-dreams-theme",
+			"last_updated": "2023-10-01",
+			"tags": ["neon", "colorful", "vibrant"]
+		},
+		{
+			"name": "Nature Green",
+			"author": "Emily Green",
+			"url": "https://github.com/emilygreen/nature-green-theme",
+			"last_updated": "2023-07-22",
+			"tags": ["green", "nature", "calm"]
+		},
+		{
+			"name": "Retro Vibes",
+			"author": "Retro Dev",
+			"url": "https://github.com/retrodev/retro-vibes-theme",
+			"last_updated": "2023-08-30",
+			"tags": ["retro", "vintage", "colorful"]
+		},
+		{
+			"name": "Oceanic Breeze",
+			"author": "Samantha Blue",
+			"url": "https://github.com/samanthablue/oceanic-breeze-theme",
+			"last_updated": "2023-09-05",
+			"tags": ["blue", "ocean", "cool"]
+		},
+		{
+			"name": "Autumn Leaves",
+			"author": "Fall Creator",
+			"url": "https://github.com/fallcreator/autumn-leaves-theme",
+			"last_updated": "2023-10-08",
+			"tags": ["autumn", "warm", "orange"]
+		},
+		{
+			"name": "Monochrome Minimal",
+			"author": "Minimalist Dev",
+			"url": "https://github.com/minimalistdev/monochrome-minimal-theme",
+			"last_updated": "2023-09-12",
+			"tags": ["black", "white", "minimal"]
+		},
+		{
+			"name": "Cyberpunk Glow",
+			"author": "Neon Hacker",
+			"url": "https://github.com/neonhacker/cyberpunk-glow-theme",
+			"last_updated": "2023-08-20",
+			"tags": ["cyberpunk", "neon", "dark"]
+		},
+		{
+			"name": "Lavender Fields",
+			"author": "Floral Designer",
+			"url": "https://github.com/floraldesigner/lavender-fields-theme",
+			"last_updated": "2023-07-18",
+			"tags": ["lavender", "purple", "calm"]
+		},
+		{
+			"name": "Galaxy Starlight",
+			"author": "Astro Coder",
+			"url": "https://github.com/astrocoder/galaxy-starlight-theme",
+			"last_updated": "2023-09-28",
+			"tags": ["space", "stars", "dark"]
+		},
+		{
+			"name": "Tropical Sunset",
+			"author": "Island Dev",
+			"url": "https://github.com/islanddev/tropical-sunset-theme",
+			"last_updated": "2023-08-25",
+			"tags": ["tropical", "sunset", "vibrant"]
+		},
+		{
+			"name": "Vintage Sepia",
+			"author": "OldTimey",
+			"url": "https://github.com/oldtimey/vintage-sepia-theme",
+			"last_updated": "2023-07-30",
+			"tags": ["vintage", "sepia", "warm"]
+		},
+		{
+			"name": "Pastel Dreams",
+			"author": "Colorful Dev",
+			"url": "https://github.com/colorfuldev/pastel-dreams-theme",
+			"last_updated": "2023-10-03",
+			"tags": ["pastel", "soft", "light"]
+		},
+		{
+			"name": "Crimson Night",
+			"author": "Dark Red",
+			"url": "https://github.com/darkred/crimson-night-theme",
+			"last_updated": "2023-09-19",
+			"tags": ["crimson", "dark", "red"]
+		},
+		{
+			"name": "Forest Whisper",
+			"author": "Nature Lover",
+			"url": "https://github.com/naturelover/forest-whisper-theme",
+			"last_updated": "2023-08-14",
+			"tags": ["forest", "green", "calm"]
+		},
+		{
+			"name": "Candy Pop",
+			"author": "Sweet Dev",
+			"url": "https://github.com/sweetdev/candy-pop-theme",
+			"last_updated": "2023-09-07",
+			"tags": ["pink", "bright", "fun"]
+		},
+		{
+			"name": "Desert Mirage",
+			"author": "Sandy Coder",
+			"url": "https://github.com/sandycoder/desert-mirage-theme",
+			"last_updated": "2023-08-02",
+			"tags": ["desert", "warm", "gold"]
+		},
+		{
+			"name": "Arctic Chill",
+			"author": "Ice Developer",
+			"url": "https://github.com/icedeveloper/arctic-chill-theme",
+			"last_updated": "2023-09-25",
+			"tags": ["blue", "cold", "minimal"]
+		},
+		{
+			"name": "Royal Purple",
+			"author": "Regal Designer",
+			"url": "https://github.com/regaldesigner/royal-purple-theme",
+			"last_updated": "2023-08-12",
+			"tags": ["purple", "regal", "luxury"]
+		},
+		{
+			"name": "Rustic Charm",
+			"author": "Country Dev",
+			"url": "https://github.com/countrydev/rustic-charm-theme",
+			"last_updated": "2023-09-11",
+			"tags": ["rustic", "brown", "warm"]
+		},
+		{
+			"name": "Techno Grid",
+			"author": "Tech Coder",
+			"url": "https://github.com/techcoder/techno-grid-theme",
+			"last_updated": "2023-07-25",
+			"tags": ["tech", "grid", "modern"]
+		},
+		{
+			"name": "Golden Hour",
+			"author": "Sunset Dev",
+			"url": "https://github.com/sunsetdev/golden-hour-theme",
+			"last_updated": "2023-08-17",
+			"tags": ["gold", "sunset", "warm"]
+		},
+		{
+			"name": "Cherry Blossom",
+			"author": "Sakura Designer",
+			"url": "https://github.com/sakuradesigner/cherry-blossom-theme",
+			"last_updated": "2023-09-03",
+			"tags": ["pink", "spring", "flowers"]
+		},
+		{
+			"name": "Mystic Blue",
+			"author": "Mystic Coder",
+			"url": "https://github.com/mysticcoder/mystic-blue-theme",
+			"last_updated": "2023-10-05",
+			"tags": ["blue", "mystic", "dark"]
+		},
+		{
+			"name": "Floral Fantasy",
+			"author": "Flower Dev",
+			"url": "https://github.com/flowerdev/floral-fantasy-theme",
+			"last_updated": "2023-07-29",
+			"tags": ["floral", "colorful", "light"]
+		},
+		{
+			"name": "Aurora Borealis",
+			"author": "Northern Lights",
+			"url": "https://github.com/northernlights/aurora-borealis-theme",
+			"last_updated": "2023-08-22",
+			"tags": ["aurora", "northern lights", "colorful"]
+		},
+		{
+			"name": "Harvest Moon",
+			"author": "Autumn Dev",
+			"url": "https://github.com/autumndev/harvest-moon-theme",
+			"last_updated": "2023-09-09",
+			"tags": ["harvest", "orange", "warm"]
+		},
+		{
+			"name": "Electric Violet",
+			"author": "Violet Spark",
+			"url": "https://github.com/violetspark/electric-violet-theme",
+			"last_updated": "2023-09-27",
+			"tags": ["violet", "electric", "bright"]
+		},
+		{
+			"name": "Sandy Beach",
+			"author": "Beach Lover",
+			"url": "https://github.com/beachlover/sandy-beach-theme",
+			"last_updated": "2023-08-06",
+			"tags": ["sand", "beach", "calm"]
+		},
+		{
+			"name": "Rainbow Delight",
+			"author": "Color Spectrum",
+			"url": "https://github.com/colorspectrum/rainbow-delight-theme",
+			"last_updated": "2023-09-13",
+			"tags": ["rainbow", "colorful", "fun"]
+		}
+	]
+}

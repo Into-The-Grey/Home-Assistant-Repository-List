@@ -1,0 +1,221 @@
+{
+	"dashboards": [
+		{
+			"name": "Minimalist Dashboard",
+			"author": "John Doe",
+			"url": "https://github.com/johndoe/minimalist-dashboard",
+			"last_updated": "2023-08-10",
+			"tags": ["minimal", "clean", "simple"]
+		},
+		{
+			"name": "Colorful Tiles",
+			"author": "Jane Smith",
+			"url": "https://github.com/janesmith/colorful-tiles-dashboard",
+			"last_updated": "2023-09-15",
+			"tags": ["colorful", "tiles", "vibrant"]
+		},
+		{
+			"name": "Dark Mode Home",
+			"author": "Alex Bright",
+			"url": "https://github.com/alexbright/dark-mode-home-dashboard",
+			"last_updated": "2023-10-01",
+			"tags": ["dark", "modern", "sleek"]
+		},
+		{
+			"name": "Nature Inspired",
+			"author": "Emily Green",
+			"url": "https://github.com/emilygreen/nature-inspired-dashboard",
+			"last_updated": "2023-07-22",
+			"tags": ["nature", "green", "calm"]
+		},
+		{
+			"name": "Retro Dashboard",
+			"author": "Retro Dev",
+			"url": "https://github.com/retrodev/retro-dashboard",
+			"last_updated": "2023-08-30",
+			"tags": ["retro", "vintage", "classic"]
+		},
+		{
+			"name": "Oceanic Dashboard",
+			"author": "Samantha Blue",
+			"url": "https://github.com/samanthablue/oceanic-dashboard",
+			"last_updated": "2023-09-05",
+			"tags": ["blue", "ocean", "cool"]
+		},
+		{
+			"name": "Autumn Vibes",
+			"author": "Fall Creator",
+			"url": "https://github.com/fallcreator/autumn-vibes-dashboard",
+			"last_updated": "2023-10-08",
+			"tags": ["autumn", "orange", "warm"]
+		},
+		{
+			"name": "Monochrome Dashboard",
+			"author": "Minimalist Dev",
+			"url": "https://github.com/minimalistdev/monochrome-dashboard",
+			"last_updated": "2023-09-12",
+			"tags": ["black", "white", "minimal"]
+		},
+		{
+			"name": "Cyberpunk Hub",
+			"author": "Neon Hacker",
+			"url": "https://github.com/neonhacker/cyberpunk-hub-dashboard",
+			"last_updated": "2023-08-20",
+			"tags": ["cyberpunk", "neon", "futuristic"]
+		},
+		{
+			"name": "Lavender Dreams",
+			"author": "Floral Designer",
+			"url": "https://github.com/floraldesigner/lavender-dreams-dashboard",
+			"last_updated": "2023-07-18",
+			"tags": ["lavender", "purple", "calm"]
+		},
+		{
+			"name": "Starry Night",
+			"author": "Astro Coder",
+			"url": "https://github.com/astrocoder/starry-night-dashboard",
+			"last_updated": "2023-09-28",
+			"tags": ["space", "stars", "dark"]
+		},
+		{
+			"name": "Tropical Paradise",
+			"author": "Island Dev",
+			"url": "https://github.com/islanddev/tropical-paradise-dashboard",
+			"last_updated": "2023-08-25",
+			"tags": ["tropical", "bright", "vibrant"]
+		},
+		{
+			"name": "Vintage Board",
+			"author": "OldTimey",
+			"url": "https://github.com/oldtimey/vintage-board-dashboard",
+			"last_updated": "2023-07-30",
+			"tags": ["vintage", "classic", "warm"]
+		},
+		{
+			"name": "Pastel Hues",
+			"author": "Colorful Dev",
+			"url": "https://github.com/colorfuldev/pastel-hues-dashboard",
+			"last_updated": "2023-10-03",
+			"tags": ["pastel", "soft", "light"]
+		},
+		{
+			"name": "Crimson Control",
+			"author": "Dark Red",
+			"url": "https://github.com/darkred/crimson-control-dashboard",
+			"last_updated": "2023-09-19",
+			"tags": ["crimson", "red", "bold"]
+		},
+		{
+			"name": "Forest Haven",
+			"author": "Nature Lover",
+			"url": "https://github.com/naturelover/forest-haven-dashboard",
+			"last_updated": "2023-08-14",
+			"tags": ["forest", "green", "natural"]
+		},
+		{
+			"name": "Candyland Dashboard",
+			"author": "Sweet Dev",
+			"url": "https://github.com/sweetdev/candyland-dashboard",
+			"last_updated": "2023-09-07",
+			"tags": ["pink", "bright", "fun"]
+		},
+		{
+			"name": "Desert Dunes",
+			"author": "Sandy Coder",
+			"url": "https://github.com/sandycoder/desert-dunes-dashboard",
+			"last_updated": "2023-08-02",
+			"tags": ["desert", "warm", "gold"]
+		},
+		{
+			"name": "Arctic Dashboard",
+			"author": "Ice Developer",
+			"url": "https://github.com/icedeveloper/arctic-dashboard",
+			"last_updated": "2023-09-25",
+			"tags": ["blue", "cold", "minimal"]
+		},
+		{
+			"name": "Royal Dashboard",
+			"author": "Regal Designer",
+			"url": "https://github.com/regaldesigner/royal-dashboard",
+			"last_updated": "2023-08-12",
+			"tags": ["purple", "luxury", "elegant"]
+		},
+		{
+			"name": "Rustic Retreat",
+			"author": "Country Dev",
+			"url": "https://github.com/countrydev/rustic-retreat-dashboard",
+			"last_updated": "2023-09-11",
+			"tags": ["rustic", "warm", "cozy"]
+		},
+		{
+			"name": "Tech Hub",
+			"author": "Tech Coder",
+			"url": "https://github.com/techcoder/tech-hub-dashboard",
+			"last_updated": "2023-07-25",
+			"tags": ["tech", "modern", "sleek"]
+		},
+		{
+			"name": "Golden Glow",
+			"author": "Sunset Dev",
+			"url": "https://github.com/sunsetdev/golden-glow-dashboard",
+			"last_updated": "2023-08-17",
+			"tags": ["gold", "sunset", "warm"]
+		},
+		{
+			"name": "Sakura Blossom",
+			"author": "Sakura Designer",
+			"url": "https://github.com/sakuradesigner/sakura-blossom-dashboard",
+			"last_updated": "2023-09-03",
+			"tags": ["pink", "floral", "spring"]
+		},
+		{
+			"name": "Mystic Aura",
+			"author": "Mystic Coder",
+			"url": "https://github.com/mysticcoder/mystic-aura-dashboard",
+			"last_updated": "2023-10-05",
+			"tags": ["blue", "mystic", "dark"]
+		},
+		{
+			"name": "Floral Haven",
+			"author": "Flower Dev",
+			"url": "https://github.com/flowerdev/floral-haven-dashboard",
+			"last_updated": "2023-07-29",
+			"tags": ["floral", "light", "calm"]
+		},
+		{
+			"name": "Aurora Lights",
+			"author": "Northern Lights",
+			"url": "https://github.com/northernlights/aurora-lights-dashboard",
+			"last_updated": "2023-08-22",
+			"tags": ["aurora", "colorful", "vibrant"]
+		},
+		{
+			"name": "Harvest Dashboard",
+			"author": "Autumn Dev",
+			"url": "https://github.com/autumndev/harvest-dashboard",
+			"last_updated": "2023-09-09",
+			"tags": ["harvest", "orange", "warm"]
+		},
+		{
+			"name": "Electric Pulse",
+			"author": "Violet Spark",
+			"url": "https://github.com/violetspark/electric-pulse-dashboard",
+			"last_updated": "2023-09-27",
+			"tags": ["violet", "electric", "modern"]
+		},
+		{
+			"name": "Beach Breeze",
+			"author": "Beach Lover",
+			"url": "https://github.com/beachlover/beach-breeze-dashboard",
+			"last_updated": "2023-08-06",
+			"tags": ["beach", "sand", "relaxing"]
+		},
+		{
+			"name": "Rainbow Spark",
+			"author": "Color Spectrum",
+			"url": "https://github.com/colorspectrum/rainbow-spark-dashboard",
+			"last_updated": "2023-09-13",
+			"tags": ["rainbow", "bright", "fun"]
+		}
+	]
+}

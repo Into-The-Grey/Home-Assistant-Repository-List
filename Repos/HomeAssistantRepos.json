@@ -114,6 +114,16 @@
                 "status": "Active",
                 "last_updated": "2023-10-10",
                 "language": "English"
+            },
+            {
+                "author": "CustomComponents",
+                "tags": ["updater", "home assistant", "custom components", "maintenance"],
+                "name": "CustomComponents's Repo",
+                "description": "Custom component updater for Home Assistant.",
+                "url": "https://github.com/custom-components/custom_updater",
+                "status": "Active",
+                "last_updated": "2023-07-15",
+                "language": "English"
             }
         ],
         "D": [
@@ -148,6 +158,16 @@
                 "status": "Active",
                 "last_updated": "2023-09-05",
                 "language": "English"
+            },
+            {
+                "author": "ESPHome",
+                "tags": ["ESP", "integration", "automation", "sensors", "home assistant"],
+                "name": "ESPHome Add-ons",
+                "description": "Add-ons for integrating ESP devices with Home Assistant.",
+                "url": "https://github.com/esphome/esphome",
+                "status": "Active",
+                "last_updated": "2023-10-10",
+                "language": "English"
             }
         ],
         "F": [
@@ -171,6 +191,16 @@
                 "url": "https://github.com/homebridge/homebridge",
                 "status": "Active",
                 "last_updated": "2023-10-01",
+                "language": "English"
+            },
+            {
+                "author": "pkozul",
+                "tags": ["floorplan", "visualization", "home assistant", "UI"],
+                "name": "HA Floorplan",
+                "description": "Floorplan component for Home Assistant.",
+                "url": "https://github.com/pkozul/ha-floorplan",
+                "status": "Active",
+                "last_updated": "2023-08-15",
                 "language": "English"
             }
         ],
